@@ -1,0 +1,26 @@
+{
+	"name": "FaceFinder",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"@expo/vector-icons": "^5.2.0",
+		"@ptomasroos/react-native-multi-slider": "0.0.11",
+		"npm-git-install": "^0.3.0",
+		"react": "16.0.0-alpha.12",
+		"react-native": "0.48.2",
+		"react-native-simple-radio-button": "^2.6.1"
+	},
+	"devDependencies": {
+		"babel-jest": "21.0.2",
+		"babel-preset-react-native": "3.0.2",
+		"jest": "21.0.2",
+		"react-test-renderer": "16.0.0-alpha.12"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

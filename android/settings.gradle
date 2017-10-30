@@ -1,0 +1,3 @@
+rootProject.name = 'FaceFinder'
+
+include ':app'
